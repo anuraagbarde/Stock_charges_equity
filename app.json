@@ -1,12 +1,17 @@
 {
-  "name": "AwesomeProject",
-  "displayName": "AwesomeProject",
+  "name": "zcalc",
+  "displayName": "zcalc",
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
-    "version": "1.0.0",
+    "name": "zcalc",
+    "slug": "zcalc",
+    "version": "0.1.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "icon": "./dollar.png",
+    "android": {
+      "package": "com.zcalc.zcalc",
+      "versionCode": 1
+    }
   }
 }
